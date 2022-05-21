@@ -1,16 +1,33 @@
-### Hi there 👋
+Meu nome é Aline, tenho 22 anos e estou no início de minha jornada em TI!`
 
-<!--
-**Alineferk/alineferk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📌 Mais sobre mim:
 
-Here are some ideas to get you started:
+- 🎓 Cursando Análise e Desenvolvimento de Sistemas 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+##
+
+<div><!--Stacks-->
+  <img src="https://img.icons8.com/color/42/000000/html-5--v1.png"/>
+  <img src="https://img.icons8.com/color/42/000000/css3.png"/>
+  <img src="https://img.icons8.com/color/42/000000/javascript.png"/>
+  <img src="https://img.icons8.com/color/42/000000/git.png"/>
+  <img src="https://img.icons8.com/color/42/000000/typescript.png"/>
+  <img src="https://img.icons8.com/color/42/000000/figma.png"/>
+
+</div>
+
+<br>
+
+<div><!--Stats-->
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=alineferk&show_icons=true&theme=omni"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alineferk&layout=compact&theme=omni"/>
+</div>
+
+<br>
+
+<div><!--Contact-->
+  <a href="https://www.instagram.com/alineferk"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/aline-ferreira-b4940a22b/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:alinefherreira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</div>
