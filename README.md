@@ -19,11 +19,6 @@ Meu nome é Aline, tenho 22 anos e estou no início de minha jornada em TI!`
 
 <br>
 
-<div><!--Stats-->
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=alineferk&show_icons=true&theme=omni"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alineferk&layout=compact&theme=omni"/>
-</div>
-
 <br>
 
 <div><!--Contact-->
