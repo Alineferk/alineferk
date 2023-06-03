@@ -8,7 +8,7 @@ Meu nome é Aline, tenho 22 anos e estou no início de minha jornada em TI!`
 ##
 
 <div><!--Stacks-->
-   <img src="https://skillicons.dev/icons?i=html,css,js,react,java,git,mysql=dark" />
+   <img src="https://skillicons.dev/icons?i=html,css,js,mysql,java,git,=dark" />
 </div>
 
 <br>
