@@ -1,4 +1,4 @@
-Meu nome é Aline, tenho 22 anos e estou no início de minha jornada em TI!`
+Meu nome é Aline, tenho 23 anos e estou no início de minha jornada em TI!`
 
 ### 📌 Mais sobre mim:
 
